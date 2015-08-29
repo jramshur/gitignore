@@ -1,5 +1,13 @@
 # History files
 .Rhistory
 
+# RStudio
+.Rapp.history
+.RData
+
+# knitr cache files
+report_cache
+report_files
+
 # Example code in package build process
 *-Ex.R
